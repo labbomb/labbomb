@@ -1,5 +1,6 @@
-### Hey 👋, This is Labbomb
+### Hey 👋, This is labbomb
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=labbomb&show_icons=true&theme=radical)
 <!--
 **labbomb/labbomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
