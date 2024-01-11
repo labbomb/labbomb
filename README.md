@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=labbomb&show_icons=true&theme=radical&hide_title=true" />
 
-- 🤔 一个邪恶的前端程序猿
+- 🤔 一个不知道什么样的前端程序猿
 - 🌱 热爱游戏、动漫，b站老司机了！！！
 - 💬 在不知道啥时候就把自己埋了的道路上渐行渐远...
 
